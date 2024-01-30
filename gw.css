@@ -1,0 +1,80 @@
+body {
+    background-image: url('mountain.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+/* General styling */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+h1, h2 {
+    color: gold;
+}
+
+p {
+    color: whitesmoke;
+}
+
+/* Header styling */
+.head29 {
+    background-color: none;
+    color: none;
+    padding: 5px 0;
+    text-align: center;
+}
+
+/* Navigation styling */
+.nav29 {
+    background-color: none;
+    color: #fff;
+    overflow: hidden;
+    padding: 10px 0;
+}
+
+.nav29 a {
+    color: gold;
+    text-decoration: none;
+    padding: 0 20px;
+    transition: background-color 0.2s ease-in-out;
+}
+
+.nav29 a:hover {
+    background-color: whitesmoke;
+    border-radius: 15px;
+    
+}
+
+.ul29 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+    color: gold;
+    background-color: none;
+}
+
+/* Main content styling */
+.main29 {
+    padding: 20px;
+    color: none;
+}
+
+.header29 {
+    color: none;
+}
+
+/* Footer styling */
+.footer29 {
+    background-color: none;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+   
+}
+hr{
+    color: black;
+}
